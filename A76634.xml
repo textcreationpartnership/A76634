@@ -1,0 +1,1597 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A version of Solomon's Song of Songs Together with the XLV. Psalm. By Joseph Stennett.</title>
+            <title>Bible. O.T. Song of Solomon. English. Stennett.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76634</idno>
+            <idno type="STC">Wing B2633AC</idno>
+            <idno type="STC">ESTC R212810</idno>
+            <idno type="EEBO-CITATION">99900050</idno>
+            <idno type="PROQUEST">99900050</idno>
+            <idno type="VID">135499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135499)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2507:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A version of Solomon's Song of Songs Together with the XLV. Psalm. By Joseph Stennett.</title>
+                  <title>Bible. O.T. Song of Solomon. English. Stennett.</title>
+                  <author>Stennett, Joseph, 1663-1713.</author>
+               </titleStmt>
+               <extent>xxiv, 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Dan. Brown at the Black Swan and Bible without Temple-bar, and Andr. Bell at the Cross-keys and Bible in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135499:1"/>
+            <pb facs="tcp:135499:1"/>
+            <p>A VERSION OF <hi>SOLOMON</hi>'s Song of Songs.</p>
+            <p>Together with The XLV. PSALM.</p>
+            <p>By <hi>JOSEPH STENNETT.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Iſa. 54.5.</hi>
+               </bibl>
+               <p>—Thy Maker is thy Husband, the LORD of Hoſts is his Name.—</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Eph. 5.32.</hi>
+               </bibl>
+               <p>This is a great Myſtery: but I ſpeak concerning Chriſt and the Church.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Dan. Brown</hi> at the Black Swan and Bible without <hi>Temple-bar,</hi> and <hi>Andr. Bell</hi> at the Croſs-keys and Bible in <hi>Cornhil.</hi> 1700.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:135499:2"/>
+            <pb n="iii" facs="tcp:135499:2"/>
+            <head>THE PREFACE.</head>
+            <p>THO 'tis generally agreed that this Poem was com<g ref="char:EOLhyphen"/>pos'd by <hi>Solomon,</hi> yet ſome have denied that he wrote it by Divine Inſpiration; and make his Deſign to be only that of celebrating his Amours with <hi>Pharaoh</hi>'s Daugh<g ref="char:EOLhyphen"/>ter, or ſome other perſon. This was formerly the Opinion of <hi>Theo<g ref="char:EOLhyphen"/>dorus Mopſueſtanus,</hi> and was con<g ref="char:EOLhyphen"/>demned in the <hi>2d</hi> Council of <hi>Con<g ref="char:EOLhyphen"/>ſtantinople:</hi> and <hi>Grotius</hi> of late in his Annotations on this Book de<g ref="char:EOLhyphen"/>clares himſelf to be<note n="*" place="bottom">[Hoc canticum] eſt <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> inter Solo<g ref="char:EOLhyphen"/>monem &amp; filiam regis Aegypti, interloquen<g ref="char:EOLhyphen"/>tibus etiam choris duobus, tum juvenum tum virginum, qui in proximis thalamo locis excu<g ref="char:EOLhyphen"/>babant, nuptiarum arcana ſub honeſtis ver<g ref="char:EOLhyphen"/>borum involucris hîc latent; quae etiam cauſa eſt cur Hebraei veteres hunc librum legi nolue<g ref="char:EOLhyphen"/>runt niſi a jam conjugio proximis. Creditur autem Solomon, quò magis perennaret hoc ſcriptum, ea arte id compoſuiſſe, ut ſine multa diſtortione <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in eo inveniri poſſent quae Dei amorem adversùs populum Iſraeliticum exprimerent, quod &amp; ſenſit &amp; oſtendit Chaldaeus hîc paraphraſtes; nec aliter accepit Maimonides. Ille autem amor typus cùm fuerit amoris Chriſti erga eccleſiam, Chriſtiani ingenia ſua ad applicanda ad eam rem hujus carminis verba exercuerunt lauda<g ref="char:EOLhyphen"/>bili ſtudio. <hi>H. Grot. in Cant.</hi>
+               </note> much of the
+<pb n="iv" facs="tcp:135499:3"/>ſame mind; tho to qualify the matter a little he tells us, <q>'Tis thought that <hi>Solomon,</hi> the bet<g ref="char:EOLhyphen"/>ter to eternize this Book, compos'd it ſo artificially, that without much ſtraining there might be Allego<g ref="char:EOLhyphen"/>ries enough found in it to expreſs the Love of God to the <hi>Iſraelitiſh</hi> Nation; which the <hi>Chaldee</hi> Pa<g ref="char:EOLhyphen"/>raphraſt perceived and declar'd, and <hi>Maimonides</hi> underſtood it no otherwiſe. And this Love being a Type of the Love of Chriſt to his Church, Chriſtians have laudably exercis'd their minds in applying
+<pb n="v" facs="tcp:135499:3"/>the words of this Poem to this purpoſe.</q> But with how little reaſon any have preſum'd to deny the Divine Authority and ſpiritual Deſign of this Book, will appear when 'tis conſidered; That it has always been numbred among the Ca<g ref="char:EOLhyphen"/>nonical Books of the Old Teſtament both by <hi>Jews</hi> and <hi>Chriſtians.</hi> The Title given it by the <hi>Chaldee</hi> Para<g ref="char:EOLhyphen"/>phraſt is, <hi>Songs and Hymns, which</hi> Solomon <hi>the Prophet, the King of</hi> Iſrael, <hi>utter'd by the Spirit of Prophecy before the Lord, the Lord of all the World.</hi> The ex<g ref="char:EOLhyphen"/>treme Reverence the <hi>Jews</hi> had for it, as containing Divine Myſteries of the higheſt rank, was the reaſon of their prohibiting their Children to read it (as well as the firſt Chapter of <hi>Geneſis,</hi> and both the beginning and end of the Prophecy of <hi>Ezekiel</hi>) till they arriv'd at <hi>30</hi> years of Age. They call it <hi>The</hi>
+               <note n="‖" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Holy of Holies,</hi> and ſay its Divine Authority was
+<pb n="vi" facs="tcp:135499:4"/>never ſo much as controverted among them by any but the Profane. They ſay the Name <hi>[Solomon]</hi> mention'd in this Song is ſacred, and to be aſcrib<g ref="char:EOLhyphen"/>ed to the <hi>Meſſiah,</hi> the Prince of Peace. And the moſt celebrated Chriſtian Writers, both Antient and Modern, ſo generally agree in the Divine Original of this Song, that it is as needleſs as it would be endleſs to name 'em.</p>
+            <p>'Tis true, this Poem treats of two Lovers, ſometimes under the character of a Shepherd and Shep<g ref="char:EOLhyphen"/>herdeſs, and ſometimes under that of a Prince and Princeſs. But does it thence follow that it has not a Myſtical Senſe, deſigning to ſet forth the mutual Love of Chriſt and his Church, when 'tis ſo uſual a thing to find Allegories in the Divine Writings? The <hi>45th</hi> Pſalm celebrates the ſame myſtical Eſpouſals, and very much in the ſame ſtrain (a Verſion of which I
+<pb n="vii" facs="tcp:135499:4"/>therefore added at the end) and <hi>John</hi> the Baptiſt gives the Cha<g ref="char:EOLhyphen"/>racter of <hi>Bridegroom</hi> to our Bleſſed Saviour,<note place="margin">
+                  <hi>John</hi> 3.29.</note> as well as <hi>John</hi> the Apoſtle.<note place="margin">
+                  <hi>Rev.</hi> 19.7, 9.</note> The Apoſtle <hi>Paul</hi> uſes the ſame kind of Language,<note place="margin">
+                  <hi>Eph.</hi> 5.22-33. 2 <hi>Cor.</hi> 11.2.</note> when he alludes to Marriage, in ſpeaking of the myſtical <g ref="char:V">Ʋ</g>nion of Chriſt and the Church. Indeed it may be allow'd that here are divers Alluſions to <hi>Solomon</hi> and his Queen, their Court and Gar<g ref="char:EOLhyphen"/>dens, <hi>&amp;c.</hi> and the rather becauſe <hi>Solomon</hi> was an eminent Type of Chriſt; but <hi>Longè majora canun<g ref="char:EOLhyphen"/>tur,</hi> and <hi>a Greater than</hi> Solomon <hi>is here,</hi> as is evident not only from what has been already ſaid, but from the improbable things that will reſult from the contrary ſuppoſition. For inſtance, if <hi>Solomon</hi> were one of the principal Subjects of this Song, is it to be imagined that he would ſpeak ſo largely in his own praiſe, and magnify his own Beauty to ſo high a degree? On the other
+<pb n="viii" facs="tcp:135499:5"/>hand, is it likely he ſhould one while ſo plainly ſet forth the defects and imperfections of his Bride, and at a<g ref="char:EOLhyphen"/>nother time extol her to the Skies? Is it to be thought he would make her ſo amorous and importunate in her inquiries after him? or that he would repreſent his Queen run<g ref="char:EOLhyphen"/>ning unattended thro the ſtreets of <hi>Jeruſalem</hi> in the night to ſeek him; and ſo expoſing her ſelf to all man<g ref="char:EOLhyphen"/>ner of Affronts and Abuſes, con<g ref="char:EOLhyphen"/>trary to the rules of Decency? This no way agrees with the modeſty and reſervedneſs of her Sex (eſpecially in thoſe times, and in that place) nor with the greatneſs of her Quality: for in this part of the Song ſhe is not conſidered as a Shepherdeſs in a Country Cottage, but as a Princeſs in her City-Palace. Now all this, and much more to the ſame pur<g ref="char:EOLhyphen"/>poſe, which for brevity ſake I for bear to mention, will very well bear a myſtic Senſe, and may eaſily be accommodated
+<pb n="ix" facs="tcp:135499:5"/>to Chriſt and the Church. For 'tis no wonder if <hi>Solomon</hi> ſpeaks high<g ref="char:EOLhyphen"/>ly in the praiſe of this Heavenly Bridegroom, and repreſents this Bride ſometimes veil'd with Ble<g ref="char:EOLhyphen"/>miſhes and Infirmities, and ſome<g ref="char:EOLhyphen"/>times without any Defect, ſhining with Beauty and Glory; becauſe the various conditions and frames of the Church of Chriſt make her ap<g ref="char:EOLhyphen"/>pear very much to differ from her ſelf, when viewed in different re<g ref="char:EOLhyphen"/>ſpects and at different times. 'Tis no treſpaſs on her Modeſty, but an addition to her Glory, to repreſent her Love to Chriſt extremely fer<g ref="char:EOLhyphen"/>vent. Her diligent Inquiry after him in the night, when withdrawn from her, after ſhe refus'd him ad<g ref="char:EOLhyphen"/>miſſion, her Sorrows and Afflictions in ſeeking him, her tranſports of Joy when ſhe finds him, all ſute very well with what paſſes between our Saviour and his Spouſe while ſhe continues in this lower World.</p>
+            <pb n="x" facs="tcp:135499:6"/>
+            <p> It is likewiſe worth obſervation, that the <hi>Tower of Lebanon</hi> ſpoken of in this Book,<note place="margin">Chap. 7.4.</note> which in all ap<g ref="char:EOLhyphen"/>pearance is the ſame with the <hi>Houſe of the Foreſt of Lebanon</hi> mention<g ref="char:EOLhyphen"/>ed <hi>1 Kings 7.2.</hi> was not built till a conſiderable time after the Temple was finiſhed, and yet <hi>Solomon</hi> was married to <hi>Pharaoh</hi>'s Daughter at leaſt ſome time before the finiſh<g ref="char:EOLhyphen"/>ing of it, as appears by comparing <hi>1 Kings 3.1.</hi> with <hi>ch. 6.38.</hi> and <hi>ch. 7.1, 2.</hi> And therefore, if this Song had been a kind of <hi>Epi<g ref="char:EOLhyphen"/>thalamium</hi> made immediately on their Marriage, this Building in <hi>Lebanon</hi> would not have bin allud<g ref="char:EOLhyphen"/>ed to in it.</p>
+            <p>As to the nature of this Poem, 'tis a kind of Paſtoral, tho ſome parts of it contain Deſcriptions more agreeable to a Prince's Court than to a Shepherd's Cottage. This mixture of City and Country, and ſudden paſſing from ſimple and ru<g ref="char:EOLhyphen"/>ſtick
+<pb n="xi" facs="tcp:135499:6"/>to noble and magnificent De<g ref="char:EOLhyphen"/>ſcriptions, was no doubt highly e<g ref="char:EOLhyphen"/>ſteemed in the <hi>Hebrew</hi> Poeſy (whatever account our Moderns make of it) ſince we have ſuch in<g ref="char:EOLhyphen"/>ſtances of it in this Poem, which was compoſed by the wiſeſt of Men, and the choiceſt Piece of a thouſand and five whereof he was the Au<g ref="char:EOLhyphen"/>thor; as appears by the Title given it of <hi>The Song of Songs,</hi> which ſignifies <hi>the moſt excellent Song,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 19.16.</note> as <hi>The King of Kings and Lord of Lords</hi> denotes in Scripture <hi>the ſupreme King and Lord.</hi>
+            </p>
+            <p>The Form of it is Dramatick: The perſons ſpeaking and ſpoken to, are the Bridegroom, the Bride, the Friends or Companions of the Bride<g ref="char:EOLhyphen"/>groom, and the Companions of the Bride, who are called the Daughters of <hi>Jeruſalem.</hi> As by the <hi>Bride<g ref="char:EOLhyphen"/>groom</hi> Chriſt is repreſented, and the Church in general by the <hi>Bride;</hi> ſo <hi>the Companions of the Bride<g ref="char:EOLhyphen"/>groom</hi>
+               <pb n="xii" facs="tcp:135499:7"/>ſeem to ſignify the Prophets, Apoſtles, and other Miniſters of the Word of God; and the <hi>Daughters of Jeruſalem,</hi> young Converts, or ſuch as are inquiring after Chriſt and his Religion.</p>
+            <p>If any are ſhock'd at the Stile and manner of Compoſure, as think<g ref="char:EOLhyphen"/>ing the Figures ſome of them too bold, and not natural, the Tran<g ref="char:EOLhyphen"/>ſtions too abrupt, <hi>&amp;c.</hi> let 'em con<g ref="char:EOLhyphen"/>ſider that the Guſt of all Ages and Nations is not the ſame, and that that is a very graceful Expreſſion in one Language, which ſeems very mean in another. They that would judg accurately of the Style of this Poem, ſhould be well acquainted with the Language in which it was origi<g ref="char:EOLhyphen"/>nally written, and with the Genius and Cuſtoms of the Age and Nation in which it was firſt publiſht. Theſe none can now pretend to be through<g ref="char:EOLhyphen"/>ly vers'd in; therefore 'tis more modeſt and becoming to lay the fault
+<pb n="xiii" facs="tcp:135499:7"/>on our own Ignorance, if we don't ſee that Beauty and Elegancy, which the antient <hi>Hebrews</hi> did, in a piece compos'd by one who, by the teſtimony of God himſelf, had the higheſt intellectual Accompliſhments of any man in the World, and who wrote it by the ſpecial Inſpiration of the Holy Spirit too: And inſtead of puzzling our ſelves and others by too nicely criticizing on its exter<g ref="char:EOLhyphen"/>nal Form, to ſeek a more uſeful and agreeable Entertainment, in getting a ſolid and experimental knowledg and reliſh of thoſe Spiri<g ref="char:EOLhyphen"/>tual Myſteries it contains.</p>
+            <p>I have attempted in the enſuing Sheets to give a Verſion of this Divine Drama; in which I have endeavoured to keep as cloſe as I well could to the Terms, or how<g ref="char:EOLhyphen"/>ever to the Senſe; to be modeſt and ſparing in paraphraſing; to leave Paſſages capable of various probable Interpretations in ſuch terms as
+<pb n="xiv" facs="tcp:135499:8"/>might be differently applied. I have endeavor'd carefully to purſue the I<g ref="char:EOLhyphen"/>deas of the Divine Poet; yet not to tie my ſelf only to his Terms ſo ſcru<g ref="char:EOLhyphen"/>pulouſly as quite to neglect the Air of our <hi>Engliſh</hi> Poetry. No body expects a Tranſlation in Verſe from any Language can be perform'd <hi>ver<g ref="char:EOLhyphen"/>batim,</hi> or as ſtrictly as one in Proſe. I have conſulted the Original Text, and various Commentators on oc<g ref="char:EOLhyphen"/>caſion, and taken the liberty to differ from our <hi>Engliſh</hi> Tranſla<g ref="char:EOLhyphen"/>tion in ſome places where I thought it reaſonable. For inſtance: <hi>ch. 1. 17.</hi> inſtead of [Rafters of Fir] I ſay [Galleries of <hi>Brutine</hi>-tree.] <hi>Chap. 2.7. ch. 3.5.</hi> and <hi>ch. 8.4.</hi> I take to be the words of the Bridegroom, and that he charges the Daugh<g ref="char:EOLhyphen"/>ters of <hi>Jeruſalem</hi> not to awake the <hi>Bride till ſhe pleaſes;</hi> whereas our Tranſlators ſuppos'd the Bride now ſpeaking, and charging them not to awake the <hi>Bridegroom till he plea<g ref="char:EOLhyphen"/>ſes.</hi>
+               <pb n="xv" facs="tcp:135499:8"/>And ſince I am ſpeaking of theſe Texts, it may not be amiſs to adver<g ref="char:EOLhyphen"/>tiſe by the way that the <hi>Adjuration</hi> here made <hi>by the Roes and Hinds of the Field</hi> is not to be underſtood as if the Party ſpeaking ſwore by theſe Creatures:<note place="margin">
+                  <hi>Heb.</hi> 6.13.</note> for as God ſwears only by himſelf <hi>becauſe he can ſwear by no Greater,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 6.13.</note> ſo it is un<g ref="char:EOLhyphen"/>lawful for his Creatures to ſwear by any thing below him.<note place="margin">
+                  <hi>Matt.</hi> 5.34-36.</note> But theſe words may either ſignify, <hi>I adjure you who are by</hi> [or among] <hi>the Roes and Hinds,</hi> &amp;c. or elſe may be taken for a kind of Obteſtation, whereby theſe Creatures are called to witneſs a<g ref="char:EOLhyphen"/>gainſt the Daughters of <hi>Jeruſalem,</hi> if they ſhould not obſerve the ſolemn Charge given 'em; as Heaven and Earth are by a <hi>Proſopopoeia</hi> called on by <hi>Moſes</hi> to teſtify againſt the <hi>Iſ<g ref="char:EOLhyphen"/>raelites,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 30.19.</note> and the Stone that <hi>Joſhua</hi> erected is termed a Witneſs,<note place="margin">
+                  <hi>Joſh.</hi> 24.27.</note> and Hearing aſcribed to it. <hi>Chap. 5. 10.</hi> the Bridegroom in our <hi>Engliſh</hi>
+               <pb n="xvi" facs="tcp:135499:9"/>Tranſlation is ſaid to be <hi>the chief<g ref="char:EOLhyphen"/>eſt of ten thouſand:</hi> This I think might better be render'd<note n="*" place="bottom">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Vexillum gerens, cui ſubſint decem hominum millia. <hi>Ayant une enſeigne de dix mille hommes.</hi> Mercer in loc.</note> [Carry<g ref="char:EOLhyphen"/>ing the Banner over ten thouſand men] I therefore turn it thus:</p>
+            <p>Under his Standard marſhal'd are Ten thouſand Youths, but none ſo fair.</p>
+            <p>What is called <hi>moſt fine Gold</hi> in our Bible, I render [<hi>the fineſt Gold, the Gold of</hi> Fez:] for there is<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> another word juſt before <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that ſignifies fine Gold; therefore I take this to be the proper Name of a part of <hi>Africa</hi> ſtill called the Kingdom of <hi>Fez:</hi> and perhaps becauſe there was plenty of pure Gold in this Country, the <hi>Arabians</hi> term fine Gold <hi>Fez.</hi> (for Mr. <hi>Ainſworth</hi> in his Anno<g ref="char:EOLhyphen"/>tations on this place, tells us 'tis ſo
+<pb n="xvii" facs="tcp:135499:9"/>call'd in the <hi>Arabick</hi> Tongue.) I have throughout noted which Party is ſpeaking, according to the beſt judgment I could make. How I have ſucceeded in theſe matters, muſt be left to others to judg.</p>
+            <p>I have compos'd it in ſuch a mea<g ref="char:EOLhyphen"/>ſure, and divided it into ſuch parts as might render it fit and eaſy to be ſung in the Worſhip of God. If any ſhould ſcruple ſo to uſe it, becauſe the ſenſe of it is (in many places at leaſt) obſcure and diffi<g ref="char:EOLhyphen"/>cult; I deſire them to conſider that many of the Pſalms are liable to the ſame Objection (particularly the <hi>45th,</hi> which treats of the ſame ſubject of Divine Love) and yet theſe are not laid aſide as uſeleſs to this purpoſe, becauſe dictated by the ſame Spirit with thoſe that are more plain and eaſy to be underſtood. The obſcurity that is found in this or other parts of the ſacred Writ<g ref="char:EOLhyphen"/>ings, ſhould excite us to the greater
+<pb n="xviii" facs="tcp:135499:10"/>diligence in ſearching after the mind of the Holy Spirit, that we may improve both in Grace and Knowledg. And the Providence of God has furniſhed various helps to this end, and ſome in our own Language: The Learned and Ju<g ref="char:EOLhyphen"/>dicious Mr. <hi>Ainſworth's</hi> Annota<g ref="char:EOLhyphen"/>tions on this Book very well deſerve to be peruſed by ſuch as aſpire after the knowledg of thoſe excellent things of which it treats.</p>
+            <p>What is repreſented to paſs be<g ref="char:EOLhyphen"/>tween Chriſt and the Church in gene<g ref="char:EOLhyphen"/>ral in this Song, is in a great meaſure applicable to the Tranſactions be<g ref="char:EOLhyphen"/>tween him and every particular Chriſtian. Here we may diſcern the pious Soul convinc'd of Chriſt's Lovelineſs and Worth, inflam'd with Love towards him, and ear<g ref="char:EOLhyphen"/>neſtly deſiring and ſeeking intimate Communion with him, tho ſhe meets with many difficulties in her way. We afterwards find her tranſ<g ref="char:EOLhyphen"/>ported
+<pb n="xix" facs="tcp:135499:10"/>with joy upon the reception of many ſignal favours from him, and very ample demonſtrations of his Love, which are attended with the moſt grateful expreſſions of Love on her part. After this, through her negligence and the power of Temptation, ſhe grows cool and languid in her Affection to him, upon which he as it were re<g ref="char:EOLhyphen"/>tires and hides himſelf from her; he withdraws the manifeſtation of his Kindneſs, the want of which alarms and awakens her from her ſlothful Frame, and ſeems to fill her with almoſt as much Sorrow as his Smiles gave her Pleaſure: her joyful Raptures are now turned into Sighs and Complaints. However, ſhe reſolves to ſeek her abſent Lord, till ſhe finds him: her Zeal re<g ref="char:EOLhyphen"/>vives: ſhe makes great proteſta<g ref="char:EOLhyphen"/>tions of the Sincerity of her Love, and reſolutions of her future Con<g ref="char:EOLhyphen"/>ſtancy: ſhe diligently enquires after
+<pb n="xx" facs="tcp:135499:11"/>him, and at length, after having paſt through many Dangers and Difficulties, ſhe meets with him. Their renewed Communion then furniſhes 'em both with the ſub<g ref="char:EOLhyphen"/>limeſt and moſt endearing Expreſ<g ref="char:EOLhyphen"/>ſions of Joy and Love; and they take the greateſt complacency in each other's Society, by turns de<g ref="char:EOLhyphen"/>ſcribing one another's Beauty, till at laſt ſhe ſeems impatient of longer delays, and to deſire a yet fuller and more perfect enjoyment of her Beloved Lord, by a Tranſlation from the Kingdom of Grace into that of Glory. This ſeems to be the general Plot and Deſign of this Divine Poem.</p>
+            <p>And thoſe gracious Souls, who are truly converted to God, and have experienced the renewing In<g ref="char:EOLhyphen"/>fluences of the Divine Spirit to maintain their ſpiritual Life; who have a ſpiritual reliſh, or (to uſe our Saviour's Phraſe) <hi>ſavour the
+<pb n="xxi" facs="tcp:135499:11"/>things that be of God</hi> (tho them<g ref="char:EOLhyphen"/>ſelves are accounted <hi>the fooliſh things of this World</hi>) will eaſily find much intelligible and inſtruc<g ref="char:EOLhyphen"/>tive matter in this Holy Song, while the <hi>wiſe men of the World</hi> are pos'd with Myſtery, and ſtumble at it. Not but that the wiſeſt and moſt learned Chriſtian may find ſome difficulties in it (as well as in many other parts of the Scripture) capable to exerciſe his pious Induſtry.</p>
+            <p>To conclude,<note place="margin">2 <hi>Tim.</hi> 3.16, 17.</note> If <hi>the whole Scripture is given by Inſpiration of God, and is profitable for Doc<g ref="char:EOLhyphen"/>trine, for Reproof, for Correction, for Inſtruction in Righteouſneſs, that the man of God may be per<g ref="char:EOLhyphen"/>fect, throughly furniſhed to all Good Works:</hi> Then this part of it is uſeful to theſe purpoſes: And we ſhall do well to attend to the Apostle's Exhortation, who ſays, <hi>Let the Word of Chriſt dwell in you richly in all Wiſdom,</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 3.16.</note>
+               <pb n="xxii" facs="tcp:135499:12"/>
+               <hi>teaching and admoniſhing one another in Pſalms and Hymns and ſpiritual Songs, ſinging with Grace in your hearts to the Lord.</hi>
+            </p>
+            <p>And if this ſmall performance ſhall by the Divine Bleſſing any way contribute to the ſtrength of thoſe pious Affections which devout Souls bear to the <hi>Bleſſed Jeſus,</hi> it will be the ſatisfaction and joy of him who eſteems it the higheſt Honour in the World to be a Ser<g ref="char:EOLhyphen"/>vant and Friend to the Heavenly Bridegroom; and heartily wiſhes <hi>Grace may be with all them that love our Lord Jeſus Chriſt in ſincerity.</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 6.24.</note> Amen.</p>
+            <closer>
+               <signed>J. S.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="xxiii" facs="tcp:135499:12"/>
+            <head>To Mr. <hi>Joſeph Stennett,</hi> on his Excellent Verſion of the Book of <hi>Canticles.</hi>
+            </head>
+            <lg>
+               <l>LET untun'd Souls Poetic Flights deſpiſe,</l>
+               <l>Who to the Heights of Verſe could never riſe,</l>
+               <l>Inſenſible to all the Charms of Wit,</l>
+               <l>And lofty Senſe, in flowing Numbers writ;</l>
+               <l>Whilſt I (unskill'd to imitate) admire</l>
+               <l>The <hi>Hebrew Song of Songs</hi> tun'd to an <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Lyre.</l>
+            </lg>
+            <lg>
+               <l>Sublime the Theme! This Sacred Poem treats</l>
+               <l>Of Love Divine, with all its charming Sweets.</l>
+               <l>Under a <hi>King's</hi> and <hi>Shepherd's</hi> Name con<g ref="char:EOLhyphen"/>ceal'd,</l>
+               <l>The Love of <hi>Chriſt</hi> is to his Church reveal'd:</l>
+               <l>He, tho the Soveraign Lord, <hi>God over all</hi>
+               </l>
+               <l>
+                  <hi>Bleſſed for ever,</hi> condeſcends to call</l>
+               <l>His Church, collected from the wretched Race</l>
+               <l>Of ſinful <hi>Adam</hi> (when adorn'd with Grace)</l>
+               <l>His <hi>Royal Bride;</hi> and as a <hi>Bridegroom</hi> loves,</l>
+               <l>With ſoft Endearments all her Paſſions moves.</l>
+               <pb n="xxiv" facs="tcp:135499:13"/>
+               <l>Her mighty Joys ſhe does in tranſport tell,</l>
+               <l>As on the Subject ſhe could ever dwell.</l>
+               <l>But ah! too ſoon forgetful of her Bliſs,</l>
+               <l>She grows ſecure; and then ſhe grows remiſs,</l>
+               <l>Till her provok'd yet conſtant Lord with<g ref="char:EOLhyphen"/>draws,</l>
+               <l>And gives her time to mourn her Fault and Loſs.</l>
+               <l>Then Cares and Fears poſſeſs her troubl'd Soul,</l>
+               <l>And anxious Doubts within her Boſom roll.</l>
+               <l>No Eaſe, no Quiet can the Fair One find,</l>
+               <l>Till his Return reſtores her peaceful Mind.</l>
+            </lg>
+            <lg>
+               <l>Th' inſpired Poet thus in Myſtic Lays</l>
+               <l>The Church's Duty ſings, her Saviour's Praiſe.</l>
+               <l>The <hi>Prince</hi> and <hi>Preacher</hi> both in one combine,</l>
+               <l>And with ſtrong Reaſon courtly Language join,</l>
+               <l>To beautify a Subject ſo Divine.</l>
+               <l>But all theſe Beauties were to Us obſcur'd</l>
+               <l>By diſtant Time and Place (yet juſt ſecur'd</l>
+               <l>Of the true Senſe in rough unpoliſh'd Proſe)</l>
+               <l>Till You (Preacher and Poet too) aroſe</l>
+               <l>To ſtorm the Heights of Sacred Poetry,</l>
+               <l>And boldly ſet the Smiling Captive free,</l>
+               <l>Tho in an <hi>Engliſh,</hi> yet a charming Dreſs:</l>
+               <l>Great the Attempt, and equal the Succeſs!</l>
+            </lg>
+            <closer>
+               <signed>Joſ. Collet.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="Psalm">
+            <div n="1" type="chapter">
+               <pb n="1" facs="tcp:135499:13"/>
+               <head>CHAP. I. <label type="milestone">
+                     <seg type="milestoneunit">Verſe </seg>1</label> SOLOMON'S <hi>Song of Songs.</hi>
+               </head>
+               <div n="1" type="part">
+                  <head>PART I.</head>
+                  <lg>
+                     <head>The Bride.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>2</label> O Let him ſeal his Lips on mine,</l>
+                     <l>His Kiſſes breath a Love Divine:</l>
+                     <l>No Juice the generous Vine can bear,</l>
+                     <l>May with thy ſweeter Love compare.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>3</label> The precious Ointments on thee ſhed,</l>
+                     <l>Around their liberal Odors ſpread,</l>
+                     <l>And with their Odors ſpread thy Fame;</l>
+                     <l>Sweet as rich Oils diffus'd thy Name,</l>
+                     <l>Thy Name the Virgins Hearts inſpires</l>
+                     <l>With ſacred Love and pure Deſires.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>4</label> Draw me by thy Almighty Charms;</l>
+                     <l>We'll run, we'll fly into thy Arms.</l>
+                     <pb n="2" facs="tcp:135499:14"/>
+                     <l>Me, happy me! the King of Kings</l>
+                     <l>Into his Bridal Chambers brings!</l>
+                     <l>Joy ſits upon our Hearts and Tongues,</l>
+                     <l>Joy tunes our Thoughts, and tunes our Songs.</l>
+                     <l>We'll think upon this Love of thine</l>
+                     <l>More than full Bowls of ſparkling Wine:</l>
+                     <l>For every Soul that's Good and Juſt,</l>
+                     <l>Loves Thee, my Dear, and love Thee muſt.</l>
+                  </lg>
+               </div>
+               <div n="2" type="part">
+                  <head>PART II.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>5</label> O Daughters of <hi>Jeruſalem,</hi>
+                     </l>
+                     <l>(Fair Offspring of a noble Stem)</l>
+                     <l>Tho, I confeſs, my Skin is brown,</l>
+                     <l>My comely Features you muſt own:</l>
+                     <l>I'm black as Tents of <hi>Kedar</hi> are;</l>
+                     <l>As <hi>Solomon</hi>'s Curtains I am fair.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>6</label> O do not with cenſorious Eyes</l>
+                     <l>Survey my Face, and then deſpiſe:</l>
+                     <l>The Sun has view'd me many days,</l>
+                     <l>And ſcorch'd my Beauty with his Rays.</l>
+                     <l>My Mother's Sons againſt me fir'd</l>
+                     <l>With an uncomely rage, conſpir'd</l>
+                     <l>To make me keep and dreſs their Vines,</l>
+                     <l>Through Winter Storms and Summer-ſhines;</l>
+                     <pb n="3" facs="tcp:135499:14"/>
+                     <l>While that lov'd Vineyard of my own</l>
+                     <l>With Weeds and Thorns is all o'regrown.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>7</label> Dear Object of my Soul's Deſire!</l>
+                     <l>O tell me whither doſt retire</l>
+                     <l>With thy lov'd Flock, thy joy and care?</l>
+                     <l>Where doſt thou feed 'em? tell me where?</l>
+                     <l>Where giv'ſt 'em ſoft repoſe at noon?</l>
+                     <l>For why ſhould I, as ſome have done,</l>
+                     <l>To other Paſtures turn aſide,</l>
+                     <l>Where thy Companions Flocks abide?</l>
+                  </lg>
+                  <lg>
+                     <head>The Bridegroom.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>8</label> Fair one, who haſt more Charms ingroſt</l>
+                     <l>Than all thy Sex beſide can boaſt?</l>
+                     <l>I'll be thy Guide, if thou wouldſt know</l>
+                     <l>How to my Fields and Folds to go.</l>
+                     <l>The Footſteps of my Flock you ſee,</l>
+                     <l>Follow them, as they follow me:</l>
+                     <l>Beſide thoſe Shepherds Tents repair,</l>
+                     <l>There feed thy Kids, and fold 'em there.</l>
+                  </lg>
+               </div>
+               <div n="3" type="part">
+                  <pb n="4" facs="tcp:135499:15"/>
+                  <head>PART III.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>9</label> Thy Steps and Port ſo graceful are,</l>
+                     <l>Thee, O my Love, I may compare</l>
+                     <l>To a fair ſet of goodly Steeds</l>
+                     <l>Of that fam'd race which <hi>Egypt</hi> breeds,</l>
+                     <l>To <hi>Pharaoh</hi>'s pompous Chariot ty'd,</l>
+                     <l>When he in ſolemn State does ride.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>10</label> Thy Cheeks with rows of Jewels ſhine;</l>
+                     <l>(Jewels become ſuch Cheeks as thine)</l>
+                     <l>And Chains of Gold fit to be worn</l>
+                     <l>On Royal Necks, do thine adorn.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>11</label> We'll golden Borders for thy ſake,</l>
+                     <l>Powder'd with Studs of Silver, make.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bride.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>12</label> While the glad King at Table ſits</l>
+                     <l>Among his welcome Favourites,</l>
+                     <l>My Spikenard ſhall the Board perfume,</l>
+                     <l>And breathe its Sweets all round the Room.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>13</label> A heap of Myrrh, for Fragrancy,</l>
+                     <l>Is my beloved Lord to me:</l>
+                     <l>Him in my Arms I will embrace,</l>
+                     <l>My Boſom make his reſting place.</l>
+                     <pb n="5" facs="tcp:135499:15"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>14</label> My deareſt Love appears to me</l>
+                     <l>A cluſter from the Camphire-Tree,</l>
+                     <l>Whoſe odorous Gum in drops diſtill'd,</l>
+                     <l>
+                        <hi>Engedi</hi>'s fertile Vineyards yield.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bridegroom.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>15</label> How fair, my Love, how wondrous fair</l>
+                     <l>Art Thou, beyond what others are!</l>
+                     <l>Thy Eyes, that flame with ſpotleſs Loves,</l>
+                     <l>Are chaſt and bright, like thoſe of Doves.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bride.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>16</label> How fair art Thou! my only Dear,</l>
+                     <l>How Aimable doſt Thou appear!</l>
+                     <l>Come let us here ſecurely reſt,</l>
+                     <l>Our Bed with pleaſant Greens is dreſt;</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>17</label> And all we have delightful ſeems:</l>
+                     <l>Our Houſe is built with Cedar Beams;</l>
+                     <l>The Galleries, contriv'd to be</l>
+                     <l>For ſpacious Walks, with <hi>Brutine</hi>-tree</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="6" facs="tcp:135499:16"/>
+               <head>CHAP. II.</head>
+               <div n="1" type="part">
+                  <head>PART I.</head>
+                  <lg>
+                     <head>The Bridegroom.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>1</label> I Am the Roſe of <hi>Sharon</hi>'s Field,</l>
+                     <l>The Lilly that the Vallies yield;</l>
+                     <l>Which paint the Fields with White and Red,</l>
+                     <l>And far and near their Odors ſpread.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>2</label> Juſt as the Lilly, which adorns</l>
+                     <l>The Vale beſet around with Thorns;</l>
+                     <l>So bright my Love appears among</l>
+                     <l>The brighteſt of the Virgin-Throng.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bride.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>3</label> Juſt as a Tree with Apples crown'd,</l>
+                     <l>Amidſt wild Shrubs encompaſs'd round;</l>
+                     <l>So fair my Dear appears among</l>
+                     <l>The faireſt of the Youthful Throng.</l>
+                     <l>To his cool Shade I did retire,</l>
+                     <l>There ſat me down, with great deſire</l>
+                     <l>To pluck his Fruit, which gave delight</l>
+                     <l>Both to my Taſte, and to my Sight.</l>
+                     <pb n="7" facs="tcp:135499:16"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>4</label> He led me to the joyful place</l>
+                     <l>Which ſplendid Banquets us'd to grace:</l>
+                     <l>To entertain me there, he ſpread</l>
+                     <l>Love's conquering Banner o're my head.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>5</label> O chear this fainting heart of mine</l>
+                     <l>With Goblets crown'd with generous Wine!</l>
+                     <l>Treat me with Apples, theſe will prove</l>
+                     <l>A Cordial now I'm ſick of Love.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>6</label> May his Left Hand my Head uphold,</l>
+                     <l>May his Right Arm me round enfold.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bridegroom.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>7</label> O Daughters of <hi>Jeruſalem,</hi>
+                     </l>
+                     <l>(Fair Offspring of a Noble Stem)</l>
+                     <l>Since here my Love now reſts ſecure,</l>
+                     <l>I with a ſolemn Charge adjure</l>
+                     <l>You by the nimble Roes and Fawns,</l>
+                     <l>That run and skip along the Lawns,</l>
+                     <l>Permit her ſoft repoſe to take,</l>
+                     <l>And no indecent Clamor make,</l>
+                     <l>Nor jog her as ſhe ſlumbering lies,</l>
+                     <l>Till ſhe her ſelf is pleas'd to riſe.</l>
+                  </lg>
+               </div>
+               <div n="2" type="part">
+                  <pb n="8" facs="tcp:135499:17"/>
+                  <head>PART II.</head>
+                  <lg>
+                     <head>The Bride.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>8</label> I hear the Voice of him I love;</l>
+                     <l>And now I ſee him ſwiftly move:</l>
+                     <l>O're haughty Mountains how he trips!</l>
+                     <l>O're Hills and Rocks how faſt he skips!</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>9</label> My Love is like a Roe or Fawn,</l>
+                     <l>That runs and leaps along the Lawn:</l>
+                     <l>Now by the Wall he ſtands I ſee,</l>
+                     <l>Now through the Window looks at me:</l>
+                     <l>His Face now through the Lattice ſhows,</l>
+                     <l>His Beauties all their Charms diſcloſe;</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>10</label> Nor ſtands my deareſt ſilent there,</l>
+                     <l>His Voice, his charming Voice I hear:</l>
+                     <l>"Riſe, riſe, my Love, make no delay,</l>
+                     <l>"Riſe, my Fair one, and come away;</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>11</label> "For ſee the frozen Winter's gone,</l>
+                     <l>"The Rains abate, the Spring comes on;</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>12</label> "On the Earths boſom Flowers ariſe</l>
+                     <l>"To pleaſe the Scent, and pleaſe the Eyes:</l>
+                     <l>"The Birds begin to chirp and ſing,</l>
+                     <l>"To welcome the returning Spring:</l>
+                     <l>"The Turtle in our Plains we hear</l>
+                     <l>"Proclaiming the reviving year:</l>
+                     <pb n="9" facs="tcp:135499:17"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>13</label> "The Fig-tree her green Fruit diſcloſes,</l>
+                     <l>"And to the warmer Air expoſes:</l>
+                     <l>"The fruitful Vine begins to bloom,</l>
+                     <l>"Her tender Buds the Air perfume.</l>
+                     <l>"Riſe, riſe, my Love, make no delay,</l>
+                     <l>"Riſe, my fair one, and come away.</l>
+                  </lg>
+               </div>
+               <div n="3" type="part">
+                  <head>PART III.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>14</label> "My Dove, who in a Rock doſt hide,</l>
+                     <l>"And in the ſecret Cliffs reſide,</l>
+                     <l>"O let thy Face to me appear!</l>
+                     <l>"Nor let me fail thy Voice to hear!</l>
+                     <l>"That melting Voice of thine is ſweet;</l>
+                     <l>"And in thy Face all Graces meet.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>15</label> "The Foxes, thoſe young Foxes take,</l>
+                     <l>"Which in our Vineyards ravage make:</l>
+                     <l>"Strive to defeat their ill deſigns;</l>
+                     <l>"For tender Grapes adorn our Vines.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>16</label> My Love is mine, and I am his,</l>
+                     <l>His Paſture 'mong the Lillies is.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>17</label> Until the welcome dawn of Day,</l>
+                     <l>When gloomy Shadows fly away,</l>
+                     <l>Turn, my Beloved, turn again,</l>
+                     <l>Nor let me call and beg in vain:</l>
+                     <pb n="10" facs="tcp:135499:18"/>
+                     <l>Be like a Roe or nimble Fawn,</l>
+                     <l>That runs and skips along the Lawn;</l>
+                     <l>Such as the Hills of <hi>Bether</hi> breed,</l>
+                     <l>Such as the Hills of <hi>Bether</hi> feed.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP III.</head>
+               <div n="1" type="part">
+                  <head>PART I.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>1</label> 'TWAS dark, as on my Bed I lay,</l>
+                     <l>My Dreams and Slumbers fled away;</l>
+                     <l>Waking I miſs'd my Soul's delight,</l>
+                     <l>I miſs'd him in the ſhades of Night:</l>
+                     <l>I call'd aloud, and call'd again;</l>
+                     <l>I ſought him, but I ſought in vain.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>2</label> I'll riſe, ſaid I, and ſearch the Town,</l>
+                     <l>View every corner up and down;</l>
+                     <l>Search every Lane, and every Street,</l>
+                     <l>Till I my Soul's Delight can meet:</l>
+                     <l>For him I ask'd, and ask'd again;</l>
+                     <l>I ſought him, but I ſought in vain:</l>
+                     <l>I found not him; but I was found</l>
+                     <l>By them that walk the City round,</l>
+                     <pb n="11" facs="tcp:135499:18"/>
+                     <l>The Watch that guard the Walls by night:</l>
+                     <l>Saw ye, ſaid I, my Soul's delight?</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>4</label> From theſe not many ſteps I paſt,</l>
+                     <l>And found my Soul's Delight at laſt:</l>
+                     <l>Faſt in my Arms my Dear I caught,</l>
+                     <l>And to my Mother's Lodgings brought,</l>
+                     <l>Into the joyful Chamber where</l>
+                     <l>I drew at firſt my vital Air.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bridegroom.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>5</label> O Daughters of <hi>Jeruſalem,</hi>
+                     </l>
+                     <l>(Fair Offspring of a Noble Stem)</l>
+                     <l>Since here my Love now reſts ſecure,</l>
+                     <l>I with a ſolemn Charge adjure</l>
+                     <l>You by the nimble Roes and Fawns,</l>
+                     <l>That run and skip along the Lawns,</l>
+                     <l>Permit her ſoft repoſe to take,</l>
+                     <l>And no indecent clamor make,</l>
+                     <l>Nor jog her as ſhe ſlumbering lies,</l>
+                     <l>Till ſhe her ſelf is pleas'd to riſe.</l>
+                  </lg>
+               </div>
+               <div n="2" type="part">
+                  <pb n="12" facs="tcp:135499:19"/>
+                  <head>PART II.</head>
+                  <lg>
+                     <head>The Friends of the Bridegroom.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>6</label> Who's this that from the Deſert comes,</l>
+                     <l>Expiring Aromatick Gums,</l>
+                     <l>Sweet as the Altar's Fumes, that riſe</l>
+                     <l>In Pillars to propitious Skies?</l>
+                     <l>Such ſacred Odors flow from her,</l>
+                     <l>Perfum'd with Frankincenſe and Myrrh;</l>
+                     <l>And all rich Powders of the ſtore</l>
+                     <l>The Merchant brings from th' Eaſtern ſhore.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>7</label> Behold Great <hi>Solomon</hi>'s Bed of State,</l>
+                     <l>Where threeſcore mighty Champions wait;</l>
+                     <l>All other Champions theſe excel,</l>
+                     <l>That head the Tribes of <hi>Iſrael;</hi>
+                     </l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>8</label> All vers'd in Arms, know how to wield</l>
+                     <l>The warlike Sword, and warlike Shield:</l>
+                     <l>Each on his Thigh his Weapon bears,</l>
+                     <l>To guard the Court from nightly fears.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>9</label> The Chariot of King <hi>Solomon</hi>
+                     </l>
+                     <l>Was made of Wood from <hi>Lebanon;</hi>
+                     </l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>10</label> The Pillars Silver finely wrought,</l>
+                     <l>The Bottom Gold from <hi>Ophir</hi> brought,</l>
+                     <pb n="13" facs="tcp:135499:19"/>
+                     <l>With <hi>Tyrian</hi> Purple lin'd above,</l>
+                     <l>The Middle pav'd with myſtick Love</l>
+                     <l>For th' Daughters of <hi>Jeruſalem,</hi>
+                     </l>
+                     <l>(The Offspring of a Noble Stem)</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>11</label> Come, <hi>Sion</hi>'s Daughters, bright and fair,</l>
+                     <l>Like that bleſt Stock that did you bear,</l>
+                     <l>See how King <hi>Solomon</hi> appears,</l>
+                     <l>How bright's the Diadem he wears!</l>
+                     <l>Crown'd by his Mother's Royal Hand,</l>
+                     <l>This ſmiling Day the nuptial Band</l>
+                     <l>Him to his lovely Bride has join'd,</l>
+                     <l>And Tides of Joy o'reflow his Mind.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <div n="1" type="part">
+                  <head>PART I.</head>
+                  <lg>
+                     <head>The Bridegroom.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>1</label> HOW fair, my Love, how wondrous fair</l>
+                     <l>Art thou beyond what others are!</l>
+                     <l>Thy Eyes that flame with ſpotleſs Loves,</l>
+                     <l>Are chaſt and bright like thoſe of Doves.</l>
+                     <pb n="14" facs="tcp:135499:20"/>
+                     <l>They ſhine beneath thy curling Locks,</l>
+                     <l>Which ſeem like Goats in numerous Flocks,</l>
+                     <l>That on Mount <hi>Gilead</hi>'s brow appear,</l>
+                     <l>Climbing to find ſweet Paſture there.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>2</label> Within thy lovely Mouth there grows</l>
+                     <l>A ſet of Teeth in even rows,</l>
+                     <l>Like Flocks of Sheep of equal ſize,</l>
+                     <l>Juſt as they from the Water riſe,</l>
+                     <l>And to be ſhorn from waſhing come,</l>
+                     <l>Bearing their ſnowy Fleeces home;</l>
+                     <l>Or like the pretty Twins they bear,</l>
+                     <l>When none of 'em abortive are.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>3</label> Thy Lips, that wear a lively Red,</l>
+                     <l>Are like a Scarlet-colour'd Thred:</l>
+                     <l>When with thy ſweeteſt Voice they move,</l>
+                     <l>Their Graces ſtill more charming prove.</l>
+                     <l>Thy Temples, ſhaded with thy Hair,</l>
+                     <l>And Cheeks, like cut Pomegranates are;</l>
+                     <l>As thoſe abound with purple Veins,</l>
+                     <l>In theſe a bluſhing Tincture reigns.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>4</label> Such Majeſty and Beauty ſhine</l>
+                     <l>In that illuſtrious Neck of thine,</l>
+                     <l>Like <hi>David</hi>'s Tower it ſeems to be,</l>
+                     <l>Built for a Royal Armory:</l>
+                     <l>Thy Necklace, ſtrung with glittering Gems,</l>
+                     <l>Like thouſand ſhining Bucklers ſeems,</l>
+                     <pb n="15" facs="tcp:135499:20"/>
+                     <l>All Shields by mighty Captains born,</l>
+                     <l>Which that bright Tower around adorn.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>5</label> Thy Breaſts, which equal Beauties ſhare,</l>
+                     <l>Are like two Fawns, an equal pair,</l>
+                     <l>The lovely Twins o'th' fruitful Roe,</l>
+                     <l>Feeding where Snow-white Lillies grow.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>6</label> Until the welcome dawn of Day,</l>
+                     <l>When gloomy Shadows fly away,</l>
+                     <l>To th' Mount of Myrrh I'll get me hence,</l>
+                     <l>And to the Hill of Frankincenſe.</l>
+                  </lg>
+               </div>
+               <div n="2" type="part">
+                  <head>PART II.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>7</label> All Beauties reign, my Love, in thee:</l>
+                     <l>From every blemiſh thou art free.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>8</label> From <hi>Leb'non</hi> come with me, my Bride;</l>
+                     <l>From <hi>Leb'non</hi> come with me, thy Guide.</l>
+                     <l>From high <hi>Amana</hi> take thy view,</l>
+                     <l>From <hi>Shenir</hi>'s top, and <hi>Hermon</hi>'s too;</l>
+                     <l>From Dens where Lions do reſide,</l>
+                     <l>From Hills where ſavage Leopards hide.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>9</label> My Siſter and my lovely Bride,</l>
+                     <l>(To me by many ties ally'd)</l>
+                     <l>My Heart is raviſh'd with thy Charms;</l>
+                     <l>My Heart is conquer'd by thy Arms.</l>
+                     <pb n="16" facs="tcp:135499:21"/>
+                     <l>One glance of Love ſhot from thy Eye</l>
+                     <l>Has won the eaſy Victory:</l>
+                     <l>One Chain, wherewith thy Neck's array'd,</l>
+                     <l>Has me a willing Captive made.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>10</label> My Siſter and my lovely Bride,</l>
+                     <l>(To me by many ties ally'd)</l>
+                     <l>How pleaſant is this Love of thine!</l>
+                     <l>How much more ſweet than generous Wine!</l>
+                     <l>How much thy precious Oils in ſmell</l>
+                     <l>The beſt of Spices all excel!</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>11</label> Thy Lips, my Spouſe, that move with skill,</l>
+                     <l>Drops like the Hony-comb diſtil.</l>
+                     <l>Hony and Milk's beneath thy Tongue,</l>
+                     <l>Which feeds the Weak as well as ſtrong.</l>
+                     <l>Thy Garments with rich Scents abound,</l>
+                     <l>Such as in <hi>Lebanon</hi> are found.</l>
+                  </lg>
+               </div>
+               <div n="3" type="part">
+                  <pb n="17" facs="tcp:135499:21"/>
+                  <head>PART III.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>12</label> My Siſter and my lovely Bride,</l>
+                     <l>(To me by many Ties ally'd)</l>
+                     <l>Is like a Garden round inclos'd,</l>
+                     <l>Not, as the common Field, expos'd:</l>
+                     <l>A Spring ſhut up, a Fountain ſeal'd,</l>
+                     <l>And ne'er to vulgar eyes reveal'd.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>13</label> Thy Plants, all ſet in decent rows,</l>
+                     <l>A fruitful Paradiſe compoſe:</l>
+                     <l>There Trees, with fair Pomegranates crown'd,</l>
+                     <l>And all delicious Fruits, abound:</l>
+                     <l>There Camphire drops, and Spikenard grows,</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>14</label> With Spikenard fragrant Saffron blows:</l>
+                     <l>Sweet Cane, and Cinnamon are there,</l>
+                     <l>With Aloes, Frankincenſe, and Myrrh:</l>
+                     <l>And all choice Spices there are found,</l>
+                     <l>Which fill the Air with Odors round.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>15</label> From Thee the Gardens all derive</l>
+                     <l>The Streams, that keep their Plants alive;</l>
+                     <l>From Thee their Spring and ſacred Well,</l>
+                     <l>Whoſe living Waters all excel:</l>
+                     <l>From <hi>Lebanon</hi> theſe Waters flow,</l>
+                     <l>And bleſs with Fruit the Vale below.</l>
+                     <pb n="18" facs="tcp:135499:22"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>16</label> Awake, O North-wind, and at laſt</l>
+                     <l>Give thou, O South, a warmer blaſt;</l>
+                     <l>Upon my Garden kindly blow,</l>
+                     <l>That all ſweet Spices there may flow.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bride.</head>
+                     <l>To's Garden let my Love repair,</l>
+                     <l>Pluck his rare Fruits, and eat 'em there.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <div n="1" type="part">
+                  <head>PART I.</head>
+                  <lg>
+                     <head>The Bridegroom.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>1</label> MY Siſter and my lovely Bride,</l>
+                     <l>(To me by many Ties ally'd)</l>
+                     <l>I'm come into my Garden, where</l>
+                     <l>I pleaſe my ſelf in gathering Myrrh,</l>
+                     <l>In gathering every Spice, and Gum:</l>
+                     <l>I eat my Hony from the Comb;</l>
+                     <l>My Wine and Milk go ſweetly down,</l>
+                     <l>With plenty theſe my Table crown.</l>
+                     <l>Come eat with me, my welcome Friends,</l>
+                     <l>Eat of the Gifts kind Heaven ſends;</l>
+                     <pb n="19" facs="tcp:135499:22"/>
+                     <l>Drink, as our Joys and Wines abound;</l>
+                     <l>Drink, dear Companions, freely round.</l>
+                  </lg>
+               </div>
+               <div n="2" type="part">
+                  <head>PART II.</head>
+                  <lg>
+                     <head>The Bride.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>2</label> I laid me down my reſt to take;</l>
+                     <l>I ſlept, yet was my Heart awake:</l>
+                     <l>A Voice ſalutes my waking Ear,</l>
+                     <l>One knocking at the Door I hear:</l>
+                     <l>My Love, it ſeems, was pleas'd to wait,</l>
+                     <l>Calling and knocking at the Gate:</l>
+                     <l>"My Siſter, loud he cry'd, my Love,</l>
+                     <l>"My Fair, my chaſt, my ſpotleſs Dove,</l>
+                     <l>"Be kind, as I to you have bin,</l>
+                     <l>"Unlock the Door, and let me in:</l>
+                     <l>"With trickling Dew my head is fill'd,</l>
+                     <l>"My Locks with Drops by night diſtill'd.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>3</label> My Garments I have laid aſide,</l>
+                     <l>How ſhall I dreſs me? I reply'd;</l>
+                     <l>I've lately waſh'd my Feet, and how,</l>
+                     <l>My Dear, ſhall I defile 'em now?</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>4</label> Unkindly thus I let him ſtand,</l>
+                     <l>Till through the Door he thruſt his Hand;</l>
+                     <l>At laſt my Heart began to move</l>
+                     <l>With all the tender thoughts of Love.</l>
+                     <pb n="20" facs="tcp:135499:23"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>5</label> I roſe, Ah that I roſe ſo late!</l>
+                     <l>I had no ſooner touch'd the Gate,</l>
+                     <l>My Hands with Drops of Myrrh were fill'd,</l>
+                     <l>My Fingers ſweeteſt Myrrh diſtill'd;</l>
+                     <l>The handles of the Lock I found</l>
+                     <l>With dropping Myrrh perfum'd around.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>6</label> I open'd to my Love the Door,</l>
+                     <l>O that I'ad open'd it before!</l>
+                     <l>For now alas! my Love was gone,</l>
+                     <l>Was gone! and I left all alone!</l>
+                     <l>My Soul was ready to expire</l>
+                     <l>With fear, with ſorrow, and deſire:</l>
+                     <l>When his kind Words I call'd to mind,</l>
+                     <l>I thought how I had been unkind!</l>
+                     <l>I ſought him, but I ſought in vain;</l>
+                     <l>I call'd, but could no anſwer gain:</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>7</label> I found not him, but I was found</l>
+                     <l>By Guards that walk the City round;</l>
+                     <l>Theſe treated me with Wounds and Blows,</l>
+                     <l>And aggravated all my Woes:</l>
+                     <l>The Watch that guard the Walls by night,</l>
+                     <l>E'en took away my Veil in ſpight.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>8</label> O Daughters of <hi>Jeruſalem,</hi>
+                     </l>
+                     <l>(Fair Offspring of a Noble Stem)</l>
+                     <l>You I moſt ſolemnly adjure,</l>
+                     <l>Whene'er you find my Love, be ſure</l>
+                     <pb n="21" facs="tcp:135499:23"/>
+                     <l>With my Complaints his pity move,</l>
+                     <l>And tell him I am ſick of Love.</l>
+                  </lg>
+               </div>
+               <div n="3" type="part">
+                  <head>PART III.</head>
+                  <lg>
+                     <head>The Daughters of <hi>Jeruſalem.</hi>
+                     </head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>9</label> O Thou, who haſt more Charms ingroſt,</l>
+                     <l>Than all our Sex beſide can boaſt!</l>
+                     <l>What Charms in thy Beloved dwell,</l>
+                     <l>To make him other Loves excel?</l>
+                     <l>Deſcribe his Beauties, let us know,</l>
+                     <l>Fair One, why thou adjur'ſt us ſo.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bride.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>10</label> In my Love's Cheeks pure White and Red</l>
+                     <l>In juſt degrees their mixture ſpread:</l>
+                     <l>Under his Standard marſhal'd are</l>
+                     <l>Ten thouſand Youths, but none ſo fair.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>21</label> His Head with fineſt Gold is crown'd,</l>
+                     <l>The Gold of <hi>Fez</hi> ſo much renown'd:</l>
+                     <l>His Hair in decent Curls appears,</l>
+                     <l>Black as the Plumes the Raven wears.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>12</label> His Eyes, that flame with ſpotleſs Loves,</l>
+                     <l>Are pure and bright like thoſe of Doves,</l>
+                     <l>When in clear Streams their Heads they wet,</l>
+                     <l>They're waſh'd in Milk, and fitly ſet.</l>
+                     <pb n="22" facs="tcp:135499:24"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>13</label> His Cheeks a Bed of Spices are,</l>
+                     <l>Or Flowers, as ſweet as they are fair.</l>
+                     <l>His Lips with balmy Myrrh do flow;</l>
+                     <l>Within 'em ſnowy Lillies grow.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>14</label> His Hands diſplay their lovely White,</l>
+                     <l>Deck'd with Gold Rings and Chryſolite.</l>
+                     <l>His Breaſt of poliſh'd Ivory made,</l>
+                     <l>And all with Saphires overlaid.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>15</label> His Legs like Marble Pillars ſhow,</l>
+                     <l>In Golden Sockets fixt below.</l>
+                     <l>His Preſence bears a Noble Air,</l>
+                     <l>As <hi>Leb'non</hi> and its Cedars Fair.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>16</label> But O how ſweet his Mouth does prove!</l>
+                     <l>He's all made up of Charms and Love!</l>
+                     <l>O Daughters of <hi>Jeruſalem,</hi>
+                     </l>
+                     <l>(Fair Offspring of a Noble Stem)</l>
+                     <l>This is my Deareſt! this is He</l>
+                     <l>Who loves, and is belov'd of Me!</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="23" facs="tcp:135499:24"/>
+               <head>CHAP. VI.</head>
+               <div n="1" type="part">
+                  <head>PART I.</head>
+                  <lg>
+                     <head>The Daughters of <hi>Jeruſalem.</hi>
+                     </head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>1</label> O Thou, who haſt more Charms ingroſt,</l>
+                     <l>Than all our Sex beſide can boaſt!</l>
+                     <l>Whither is thy Beloved gone?</l>
+                     <l>O whither is thy Love withdrawn?</l>
+                     <l>Which way he turn'd let us but know,</l>
+                     <l>We'll all to ſeek Him with thee go.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bride.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>2</label> To's Garden he's gone to retire,</l>
+                     <l>Where Beds of Spice their Sweets expire.</l>
+                     <l>To's Gardens, where he feeds, and where</l>
+                     <l>He gathers Lillies ſweet and fair.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>3</label> My Love is mine, and I am his;</l>
+                     <l>His Paſture 'mong the Lillies is.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bridegroom.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>4</label> As <hi>Tirzah</hi> fair, my Love, you ſeem,</l>
+                     <l>And comely as <hi>Jeruſalem.</hi>
+                     </l>
+                     <pb n="24" facs="tcp:135499:25"/>
+                     <l>Among thy milder Graces now</l>
+                     <l>An aweful Dread reigns on thy Brow;</l>
+                     <l>Like Armies that for War prepare,</l>
+                     <l>And to the Field their Enſigns bear.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>5</label> O turn from me thoſe conquering Eyes,</l>
+                     <l>Whoſe powerful Charms my Heart ſurprize!</l>
+                     <l>Thy Hair, all curl'd in curious Locks,</l>
+                     <l>Seems like thoſe Goats in numerous Flocks,</l>
+                     <l>That on Mount <hi>Gilead</hi>'s Brow appear,</l>
+                     <l>Climbing to find ſweet Paſture there.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>6</label> Within thy lovely Mouth there grows</l>
+                     <l>A ſet of Teeth in even Rows;</l>
+                     <l>Like Flocks of Sheep of equal ſize,</l>
+                     <l>Juſt as they from the Water riſe,</l>
+                     <l>And to be ſhorn from waſhing come,</l>
+                     <l>Bearing their ſnowy Fleeces home;</l>
+                     <l>Or like the pretty Twins they bear,</l>
+                     <l>When none of them abortive are.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>7</label> Thy Temples ſhaded with thy Hair,</l>
+                     <l>And Cheeks like cut Pomegranates are;</l>
+                     <l>As thoſe abound with Purple Veins,</l>
+                     <l>In theſe a bluſhing Tincture reigns.</l>
+                  </lg>
+               </div>
+               <div n="2" type="part">
+                  <pb n="25" facs="tcp:135499:25"/>
+                  <head>PART II.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>8</label> Not all the Train of Threeſcore Queens,</l>
+                     <l>And Fourſcore beauteous Concubines,</l>
+                     <l>Innumerable Virgins too,</l>
+                     <l>May e'er compare, my Love, with You.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>9</label> My only Dove, my ſpotleſs One</l>
+                     <l>Tranſcends 'em all her Self alone;</l>
+                     <l>The only One her Mother bare,</l>
+                     <l>Her Mother's tender Joy and Care.</l>
+                     <l>The Virgins ſaw her, and confeſt</l>
+                     <l>None with ſuch Beauty e'er was bleſt:</l>
+                     <l>The Queens and Concubines admir'd,</l>
+                     <l>And in her Praiſes all conſpir'd.</l>
+                  </lg>
+                  <lg>
+                     <head>The Daughters of <hi>Jeruſalem.</hi>
+                     </head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>10</label> Who's this ſo chearful and ſo bright,</l>
+                     <l>Gay as the riſing Morning Light?</l>
+                     <l>Ne'er did the Moon ſo fair appear;</l>
+                     <l>Nor is the Sun more bright and clear.</l>
+                     <l>Among her milder Graces now</l>
+                     <l>An awful Dread reigns o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> her Brow;</l>
+                     <l>Like Armies that for War prepare,</l>
+                     <l>And to the Field their Enſigns bear.</l>
+                  </lg>
+               </div>
+               <div n="3" type="part">
+                  <pb n="26" facs="tcp:135499:26"/>
+                  <head>PART III.</head>
+                  <lg>
+                     <head>The Bridegroom.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>11</label> To the Nut-garden I went down,</l>
+                     <l>To ſee what Fruits the Valley crown;</l>
+                     <l>To ſee how well the Vines were grown,</l>
+                     <l>How the Pomegranate-trees were blown.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>12</label> Surpriz'd I know not how, I find</l>
+                     <l>Fervent Deſires tranſport my Mind,</l>
+                     <l>And Raptures wing my wondring Soul,</l>
+                     <l>That nothing can my Speed controul:</l>
+                     <l>So Volunteers in Chariots fly,</l>
+                     <l>Reſolv'd to overcome or dy.</l>
+                     <l>Return, return, O <hi>Shulamite,</hi>
+                     </l>
+                     <l>Thy Preſence will rejoice our ſight:</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>13</label> Return, return, what ſhall we ſee,</l>
+                     <l>O Faireſt <hi>Shulamite,</hi> in Thee?</l>
+                     <l>In Thee bright Pomp and Terror ſhine,</l>
+                     <l>As when two ſhouting Armies join.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="27" facs="tcp:135499:26"/>
+               <head>CHAP. VII.</head>
+               <div n="1" type="part">
+                  <head>PART I.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>1</label> IN Thee, O Prince's Daughter, meet</l>
+                     <l>Numberleſs Charms from Head to Feet!</l>
+                     <l>Thoſe Feet become the Shoes they wear,</l>
+                     <l>Become the lovely Weight they bear;</l>
+                     <l>Two beauteous Pillars they ſuſtain,</l>
+                     <l>Whoſe Joints the fineſt Work contain;</l>
+                     <l>Like precious Gems, more precious ſtill</l>
+                     <l>When cut and ſet with wondrous Skill.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>2</label> Thy Navel's like a Goblet round,</l>
+                     <l>Which does with vital Juice abound:</l>
+                     <l>Thy Belly promiſes a Race,</l>
+                     <l>Heirs to thy Honour, and thy Grace.</l>
+                     <l>'Tis like a heap of Wheat, when crown'd</l>
+                     <l>With ſnowy Lillies all around.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>3</label> Thy Breaſts, which equal Beauties ſhare,</l>
+                     <l>Are like two Fawns an equal pair,</l>
+                     <l>The lovely Twins o' th' fruitful Roe.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>4</label> Above theſe Hills of driven Snow</l>
+                     <l>Stands that fair Neck, which ſeems to be</l>
+                     <l>A Tower of poliſh'd Ivory.</l>
+                     <pb n="28" facs="tcp:135499:27"/>
+                     <l>Thoſe Eyes, thoſe ſparkling Eyes of thine,</l>
+                     <l>Like the clear Pools in <hi>Heſhbon,</hi> ſhine</l>
+                     <l>Juſt by <hi>Bath-rabbim</hi>-gate. Thy Noſe</l>
+                     <l>Methinks like ſome fair Turret ſhows,</l>
+                     <l>Like that of <hi>Leb'non,</hi> which deſcries</l>
+                     <l>The Plain where great <hi>Damaſcus</hi> lies.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>5</label> Thy Head's with many Graces bleſt,</l>
+                     <l>(Thy Head, whoſe Beauty crowns the reſt)</l>
+                     <l>It looks like <hi>Carmel</hi>'s Fields, and bears</l>
+                     <l>A lovely Fleece of purple Hairs.</l>
+                     <l>By theſe dear Chains the King is bound,</l>
+                     <l>When in the Galleries he's found.</l>
+                  </lg>
+               </div>
+               <div n="2" type="part">
+                  <head>PART II.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>6</label> Thou Lov'd, and Lovely one, how fair,</l>
+                     <l>How charming all thy Features are!</l>
+                     <l>How they inſpire refin'd Delight!</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>7</label> Thy Stature's like the Palm upright;</l>
+                     <l>Thy Breaſts like Cluſters of the Vine,</l>
+                     <l>When ripe, and full of generous Wine.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>8</label> The ſtately Palm I'll climb, ſaid I,</l>
+                     <l>I'll reach its fruitful Boughs on high;</l>
+                     <l>Thy Breaſts, like Cluſters of the Vine,</l>
+                     <l>Shall now abound with generous Wine.</l>
+                     <l>Thy Noſtrils breath a fragrant Air,</l>
+                     <l>Like Apples ſweet, as they are fair.</l>
+                     <pb n="29" facs="tcp:135499:27"/>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>9</label> Thy Mouth, the Seat of Eloquence,</l>
+                     <l>Shews the right Guſt of Truth and Senſe;</l>
+                     <l>Like ſparkling Wine, that briskly moves,</l>
+                     <l>Such as my deareſt Love approves;</l>
+                     <l>Which can inſpire the Dull, and rouze</l>
+                     <l>The ſilent Lips of them that drouze.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bride.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>10</label> I am my Love's, I am his own;</l>
+                     <l>And his Deſire's to me alone.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>11</label> Come, my Beloved, let's repair</l>
+                     <l>To th' open Fields, and take the Air;</l>
+                     <l>Into the Country we'll retreat,</l>
+                     <l>And there a quiet Lodging get;</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>12</label> We'll riſe up with the dawning Day,</l>
+                     <l>And through the ſmiling Vineyards ſtray;</l>
+                     <l>See if the Vine begins to ſhoot,</l>
+                     <l>And promiſes good ſtore of Fruit;</l>
+                     <l>See if her tender Grapes ſhe ſhows;</l>
+                     <l>See how the fair Pomegranate blows.</l>
+                     <l>There will I give my Loves to thee.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>13</label> The Mandrakes breath their Fragrancy:</l>
+                     <l>Our Gates with choiceſt Fruits abound,</l>
+                     <l>Fruits new and old with us are found;</l>
+                     <pb n="30" facs="tcp:135499:28"/>
+                     <l>This Store, my Love, I did provide</l>
+                     <l>For Thee, who haſt my Heart beſide.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <div n="1" type="part">
+                  <head>PART I.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>1</label> O How I wiſh, my Love, that Thou</l>
+                     <l>Wer't with me as my Brother now,</l>
+                     <l>Fed by thoſe Breaſts, born on that Knee,</l>
+                     <l>Which ſuckled and ſupported me.</l>
+                     <l>With how much Joy I ſhould thee meet,</l>
+                     <l>Or in the Field, or in the Street!</l>
+                     <l>There I'd embrace thee, there I'd kiſs,</l>
+                     <l>Nor ſhould I be deſpis'd for this.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>2</label> How gladly would I lead Thee home!</l>
+                     <l>Whither Thou wouldſt as gladly come,</l>
+                     <l>To my dear Mother's pleaſant Seat,</l>
+                     <l>Where Thou ſhouldſt many Welcomes meet:</l>
+                     <l>Thy kind Inſtructions all ſhould find</l>
+                     <l>A liſtening Ear, and pliant Mind:</l>
+                     <l>Wine mix'd with Spices I'd prepare,</l>
+                     <l>And Thou ſhouldſt freely drink it there.</l>
+                     <pb n="31" facs="tcp:135499:28"/>
+                     <l>The Fruit of my Pomegranate-tree</l>
+                     <l>Should yield its grateful Juice to Thee.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>3</label> His Left Hand ſhould my Head uphold,</l>
+                     <l>His Right Arm ſhould me round enfold.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bridegroom.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>4</label> O Daughters of <hi>Jeruſalem,</hi>
+                     </l>
+                     <l>(Fair Offspring of a Noble Stem)</l>
+                     <l>Since here my Love now reſts ſecure,</l>
+                     <l>You I moſt ſolemnly adjure,</l>
+                     <l>Permit her ſoft repoſe to take,</l>
+                     <l>And no indecent clamor make,</l>
+                     <l>Nor jog her as ſhe ſlumbering lies,</l>
+                     <l>Till ſhe her ſelf is pleas'd to riſe.</l>
+                  </lg>
+               </div>
+               <div n="2" type="part">
+                  <head>PART II.</head>
+                  <lg>
+                     <head>The Daughters of <hi>Jeruſalem.</hi>
+                     </head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>5</label> Who's this that from the Deſert moves,</l>
+                     <l>Leaning upon the Arm ſhe loves?</l>
+                  </lg>
+                  <lg>
+                     <head>The Bridegroom.</head>
+                     <l>At firſt, my Love, I rais'd up Thee</l>
+                     <l>Under the fruitful Apple-tree;</l>
+                     <pb n="32" facs="tcp:135499:29"/>
+                     <l>There many a Pang, and many a Throw</l>
+                     <l>Did thy Fair Mother undergo;</l>
+                     <l>But after many Pangs and Throws,</l>
+                     <l>Did her bleſt Fruit at laſt diſcloſe.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bride.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>6</label> O Let my Name be deep impreſt,</l>
+                     <l>Like a fair Signet, on thy Breaſt!</l>
+                     <l>Ingrave it on thy Arm, and wear</l>
+                     <l>The precious Seal for ever there:</l>
+                     <l>For there's ſo great a power in Love,</l>
+                     <l>Not Death it ſelf ſo ſtrong can prove;</l>
+                     <l>The King of Terrors in his Pride</l>
+                     <l>By fiercer Jealouſy's outvy'd,</l>
+                     <l>Thoſe Darts ſhine with Celeſtial Fire,</l>
+                     <l>Thoſe Darts a Love Divine inſpire,</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>7</label> A Love whoſe Flame can never be</l>
+                     <l>Conquer'd by th' overflowing Sea:</l>
+                     <l>The ſwelling Floods in vain conſpire</l>
+                     <l>To quench ſo pure and bright a Fire.</l>
+                     <l>He whoſe large Stores do moſt abound,</l>
+                     <l>Too poor to purchaſe Love is found;</l>
+                     <l>His Offers would ſucceſsleſs prove,</l>
+                     <l>Should he give all his Wealth for Love;</l>
+                     <pb n="33" facs="tcp:135499:29"/>
+                     <l>Love at ſo high a rate is priz'd,</l>
+                     <l>His Treaſures would be all deſpis'd,</l>
+                  </lg>
+               </div>
+               <div n="3" type="part">
+                  <head>PART III.</head>
+                  <lg>
+                     <head>The Bridegroom.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>8</label> A little Siſter, fair and young,</l>
+                     <l>Does to our Family belong:</l>
+                     <l>Her Breaſts appear not yet, 'tis true;</l>
+                     <l>What ſhall we for our Siſter do,</l>
+                     <l>When ſhe begins to get a Name,</l>
+                     <l>When growing Beauties ſpread her Fame?</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>9</label> If, by the firmneſs of her Mind,</l>
+                     <l>She ſeems a Wall, for ſtrength deſign'd;</l>
+                     <l>A Palace on that Wall we'll found,</l>
+                     <l>Glittering with Silver all around:</l>
+                     <l>If like a Gate, built to defend</l>
+                     <l>From Foes, and to admit a Friend;</l>
+                     <l>With Cedar Boards we'll fence her well,</l>
+                     <l>Of laſting Strength and fragrant Smell</l>
+                  </lg>
+                  <lg>
+                     <head>The Bride.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>10</label> Such is the firmneſs of my Mind,</l>
+                     <l>I am a Wall for Strength deſign'd;</l>
+                     <l>My Breaſts are grown, and now appear</l>
+                     <l>Like two fair Towers built for my Dear.</l>
+                     <pb n="34" facs="tcp:135499:30"/>
+                     <l>When thus I ſpake, his Smiles I gain'd,</l>
+                     <l>With them his very Heart obtain'd.</l>
+                  </lg>
+               </div>
+               <div n="4" type="part">
+                  <head>PART IV.</head>
+                  <lg>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>11</label> King <hi>Solomon</hi> a Field poſſeſt,</l>
+                     <l>
+                        <hi>Baal-hamon</hi> Field with plenty bleſt:</l>
+                     <l>With Vines of nobleſt kind 'twas ſet.</l>
+                     <l>This Vineyard he to Keepers let;</l>
+                     <l>Theſe for the Fruit agreed to bring</l>
+                     <l>A thouſand Shekels to the King.</l>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>12</label> That fertile Vineyard I poſſeſs,</l>
+                     <l>I always keep, and fence, and dreſs;</l>
+                     <l>A thouſand Silver Shekels are,</l>
+                     <l>O <hi>Solomon,</hi> thy Rightful ſhare;</l>
+                     <l>And thoſe two hundred that remain,</l>
+                     <l>To them that keep the Fruit pertain.</l>
+                  </lg>
+                  <lg>
+                     <head>The Bridegroom.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>13</label> O Thou who dwelſt in Gardens fair,</l>
+                     <l>And art the faireſt Flower there!</l>
+                     <l>Thy Voice our glad Companions hear,</l>
+                     <l>Which melts the Heart, and charms the Ear.</l>
+                     <l>Give me the ſame delight, my Dear,</l>
+                     <l>Thy ſweeteſt Voice O let me hear!</l>
+                  </lg>
+                  <lg>
+                     <pb n="35" facs="tcp:135499:30"/>
+                     <head>The Bride.</head>
+                     <l>
+                        <label type="milestone">
+                           <seg type="milestoneunit">Verſe </seg>14</label> Haſte, my Beloved, haſte away,</l>
+                     <l>Nor let me vainly beg and pray:</l>
+                     <l>Flee like a Roe or nimble Fawn,</l>
+                     <l>That runs and skips along the Lawn;</l>
+                     <l>Such as the ſpicy Mountains breed,</l>
+                     <l>Such as the ſpicy Mountains feed.</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+         <div n="45" type="Psalm">
+            <pb n="36" facs="tcp:135499:31"/>
+            <head>
+               <hi>Pſalm XLV.</hi> To the chief Muſician upon <hi>Shoſhan<g ref="char:EOLhyphen"/>nim,</hi> for the Sons of <hi>Korah, Maſchil.</hi>
+            </head>
+            <head type="sub">A Song of Loves.</head>
+            <div n="1" type="part">
+               <head>PART I.<note place="margin">Verſe]</note>
+               </head>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>1</label> MY Heart a Noble Theme indites,</l>
+                  <l>What I compoſe concerns the King;</l>
+                  <l>My Tongue the ſwifteſt Pen that writes</l>
+                  <l>Outvies, while I attempt to ſing.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>2</label> None among all the Human Race</l>
+                  <l>Like Thee for Lovelineſs appears;</l>
+                  <l>Thy Lips, bedew'd with Heavenly Grace,</l>
+                  <l>Raviſh each wond'ring Soul that hears:</l>
+                  <pb n="37" facs="tcp:135499:31"/>
+                  <l>For God will ever from on high</l>
+                  <l>His conſtant Bleſſings Thee afford.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>3</label> O mighty One, upon thy Thigh</l>
+                  <l>Make haſte to gird thy Conquering Sword:</l>
+               </lg>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>4</label> Thy Majeſty and Glory ſhow;</l>
+                  <l>Along in Proſperous Grandeur ride;</l>
+                  <l>Let Meekneſs, Truth, and Juſtice go</l>
+                  <l>In Solemn Triumph by thy ſide.</l>
+               </lg>
+               <lg>
+                  <l>Thy Right Hand, vers'd in Warlike Arts,</l>
+                  <l>Thee terrible Exploits ſhall teach:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>5</label> O King, thy Foes rebellious Hearts</l>
+                  <l>Thy keeneſt Darts ſhall ſurely reach;</l>
+               </lg>
+               <lg>
+                  <l>The Nations under Thee ſhall fall.</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>6</label> Thy Throne, O God, ſhall ſtand ſecure;</l>
+                  <l>And, as its Power extends o'er all,</l>
+                  <l>It ſhall for evermore endure.</l>
+               </lg>
+               <lg>
+                  <l>The Scepter of thy Kingdom proves</l>
+                  <l>A Scepter of Impartial Right:</l>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>7</label> Thy Soul unſpotted Juſtice loves,</l>
+                  <l>And Sin is odious in thy ſight.</l>
+               </lg>
+               <lg>
+                  <pb n="38" facs="tcp:135499:32"/>
+                  <l>For God, thy God, in plenteous Showers</l>
+                  <l>On thee the Oil of Gladneſs ſheds;</l>
+                  <l>More of that Holy Ointment pours</l>
+                  <l>On Thine, than thy Companions Heads.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>8</label> Myrrh, Aloes, Caſſia, rich Perfumes</l>
+                  <l>Thy Robes of Glory more expire,</l>
+                  <l>When paſſing from the Ivory Rooms,</l>
+                  <l>Than all thy deareſt Friends Attire.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>9</label> Kings Daughters there were waiting ſeen,</l>
+                  <l>And in the Crowd of Virgins preſt;</l>
+                  <l>On thy Right Hand the Brighter Queen</l>
+                  <l>Stood all in Gold of <hi>Ophir</hi> dreſt.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>PART II.</head>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>10</label> O Royal Daughter, bow thy Ear,</l>
+                  <l>Attend with ſerious thoughts to me;</l>
+                  <l>Forget thy People once ſo Dear,</l>
+                  <l>Nor long thy Father's Houſe to ſee:</l>
+               </lg>
+               <lg>
+                  <pb n="39" facs="tcp:135499:32"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>11</label> So the King's Heart ſhall be thy own,</l>
+                  <l>He ſhall thy Beauty ſtill admire;</l>
+                  <l>For he's thy Lord, thy Lord alone,</l>
+                  <l>And does thy Worſhip all require.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>20</label> 
+                     <hi>Tyre</hi>'s Stately Daughter ſhall attend</l>
+                  <l>With Coſtly Preſents at thy Gate:</l>
+                  <l>The richeſt of the People bend,</l>
+                  <l>And for thy Favour beg and wait.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>13</label> The King's Fair Daughter's pious Heart</l>
+                  <l>All Inward Glories does enfold;</l>
+                  <l>Her outward Garments wrought with Art,</l>
+                  <l>Are made of Threds of pureſt Gold.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>14</label> She ſhall be led in Solemn State</l>
+                  <l>In Robes of fine Embroidery;</l>
+                  <l>Her Virgin-Friends that on her wait,</l>
+                  <l>Shall all be introduc'd to Thee.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>15</label> As to the Palace they reſort,</l>
+                  <l>Full Joys in every Heart ſhall reign,</l>
+                  <l>Till the bright Gate o'th' Royal Court</l>
+                  <l>Receives the welcome Nuptial Train.</l>
+               </lg>
+               <lg>
+                  <pb n="40" facs="tcp:135499:33"/>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>16</label> Inſtead of Fathers ſoon there ſprings</l>
+                  <l>A ſtock of Sons, that owe their Birth</l>
+                  <l>To Thee; a Noble Race of Kings,</l>
+                  <l>Whom Thou ſhalt place o'er all the Earth.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Verſe </seg>17</label> And I, O King, will make thy Name</l>
+                  <l>To all ſucceſſive Times deſcend;</l>
+                  <l>All Nations ſhall thy Acts proclaim</l>
+                  <l>And thy loud Praiſes ne'er ſhall end.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:135499:33"/>
+               <pb facs="tcp:135499:34" rendition="simple:additions"/>
+               <pb facs="tcp:135499:34"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
